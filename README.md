@@ -7,4 +7,5 @@ Currently changing direction to programming WWW applications in JAVA to bring ne
 
 🛠️ Languages and Tools:   · JAVA · CSS · HTML · JavaScript · MySQL · Git · Bootstrap 
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="miroslav-tomáš-5a45a847" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cz.linkedin.com/in/miroslav-tom%C3%A1%C5%A1-5a45a847?trk=profile-badge">Miroslav Tomáš</a></div>
+              
