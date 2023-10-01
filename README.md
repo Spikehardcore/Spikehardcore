@@ -5,6 +5,4 @@ Currently changing direction to programming WWW applications in JAVA to bring ne
 
 📫 How to reach me: miratomas@seznam.cz and together we will achieve success."
 
-🛠️ Languages and Tools : 
-
-·JAVA ·CSS ·HTML ·JavaScript ·MySQL ·Git ·Bootstrap 
+🛠️ Languages and Tools:   · JAVA · CSS · HTML · JavaScript · MySQL · Git · Bootstrap 
